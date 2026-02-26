@@ -53,21 +53,17 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Publications  
 
-- **Rupinder.Kaur**, “Exploring the Intricacies of Machine Learning-Based Optimization of Electric Discharge Machining on Squeeze Cast TiB2/AA6061 Composites: Insights from Morphological, and Microstructural aspects in the Surface Structure Analysis of Recast Layer Formation and Worn-Out Analysis”, Journal of Materials Research and Technology, Sept, 2023
-
-- **Amit. Kamra**, “Enhancing diagnosis of breast cancer through mammographic image segmentation using Fuzzy C-Means”, INTERNATIONAL JOURNAL OF SUSTAINABLE Building Technology and Urban Development, December, 2023.
-
-- **Gagneet.Kaur**, “Emergence of Techno-Enterpreneurship during Covid-19”, PIMT Journal of Research, December, 2023.
-
-- **Rupinder.Kaur**, “Exploring the role of computer vision in product design and development: a comprehensive review”, International Journal on Interactive Design and Manufacturing (IJIDeM), February, 2024.
-
-- **Sachin Bagga**, “PortBlocker: Detection and Mitigation of Hardware Trojan through Re-routing and Bypassing”, 023 IEEE 16th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC),23rd December, 2023,SUTD, Singapore,IEEE.
-- **K.S. Mann**,"E-Business Innovation Trends and Implications for Private Sector",International Conference on Advancements in Engineering and Technology,23-24 November 2023,Bhai Gurdas Institute of Engienering and Technology, Sangrur, Punjab,IEEE.
-- **Amit Kamra**,"A Review on CLAHE Based Enhancement Techniques",International Conference on Contemporary Computing and Informatics,14-16 September 2023,Gautam Budhha Nagar, Uttar Pradesh,IEEE.
-- **Sandeep Singla and Rupinder Kaur**,"Forecasting Air Quality of Ludhiana: A Machine Learning Exploration with Dataset Insights",International Conference on Advancements in Engineering and Technology,23-24 November 2023,Bhai Gurdas Institute of Engienering and Technology, Sangrur, Punjab,IEEE.
-- **Rupinder Kaur**," Bridging the crop knowledge gap: Machine Learning in Agriculture",International Conference on Advancements in Engineering and Technology,23-24 November 2023,Bhai Gurdas Institute of Engienering and Technology, Sangrur, Punjab,IEEE.
-- **Pankaj Bhambri**,"Exploring the Application Domains of ML-based Facial Emotion Recognition Systems: Framework, Techniques and Challenges"Second International Conference on Computing and Communication Networks,25 March 2024,Manchester, United Kingdom,AIP Conference Proceedings.
-- **Pankaj Bhambri**,"Plants Recognition using Leaf Image Pattern Analysis with Focus on Advanced Smart Computing Technologies",International Conference on Applied Data Science and Smart Systems,5 December 2023,Chitkara University, Punjab,AIP Conference Proceedings.
+- **Dr. Sandeep Kumar Singla**, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.
+- **Dr. Pankaj Bhambri**, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.
+- **Dr. Jagdeep Singh**, “Sustainable machining of Inconel 718 using minimum quantity lubrication: Artificial intelligence-based process modelling”, Heliyon, August 2024.
+- **Dr. Randeep Kaur**, “Predictive Analytics & Validation for Technology Intervention Recommendation System for Autism: A Machine Learning Framework”, International Journal of INTELLIGENT SYSTEMS & APPLICATIONS in Engineering, July 2024.
+- **Dr. Jagdeep Singh**, “Modeling and optimization of hard turning: predictive analysis of surface roughness and cutting forces in AISI 52100 steel using machine learning”, International Journal on Interactive Design and Manufacturing , November 2024.
+- **Pf. Rupinder Kaur**,"Exploring the Role of Computer Vision in Product Design and Development: A Comprehensive Review", International Journal on Interactive Design and Manufacturing(IJIDeM), July 2024.
+- **Pf. Rupinder Kaur**,"Integrating Sustainable Energy Systems and Artificial Intelligence: Transforming the Future of Energy", Springer Scopus Indexed, December 2024.
+- **Dr. Jagdeep Singh**,"Renewable Energy Optimization for Distributed EV Charging Stations Using HBA and Smart Contracts",IEEE Internet of Things, March 2025.
+- **Dr. Pankaj Bhambri**,"nBLAST-JC: An accelerated deployment of nucleotide BLAST on high-performance cluster, Heliyon, May 2025.
+- **Dr. Palwinder Kaur**,"Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy, International Journal of Environmental Sciences,May 2025
+- **Dr. Randeep Kaur**,""Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy, International Journal of Environmental Sciences,May 2025.
 
 
 
