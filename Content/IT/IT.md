@@ -19,7 +19,7 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Faculty Achievements  
 
-- <p align=justify>Dr. Akshay Girdhar,Professor(IT) & Dr. Jagdeep Singh, Assistant Professor (IT) received an appreciation Certificate from Deputy Commissioner, Ludhiana on 9th August 2024.
+- <p align=justify>Dr. Akshay Girdhar,Professor(IT) & Dr. Jagdeep Singh, Assistant Professor (IT) received an "Appreciation Certificate from Deputy Commissioner", Ludhiana on 9th August 2024.They have been actively involved as a consultant in various prestigious projects, showcasing their expertise and dedication to their field.
 
 - <p align=justify> Dr. K.S.Mann, Dr.Amit Kamra & Dr. Pankaj Bhambri has been awarded with the design patent for Smart Helmet( Design No:382600-001).
 - <p align=justify>Dr. K.S.Mann, Professor and Head(IT),received the "Certification of Appreciation" in recognition of invaluable contributions as a Founder Member/Office Bearer/President of SLIET Alumini Association from SLIET Alumini Association dated on 9th February 2025.  
@@ -38,10 +38,18 @@ The Information Technology Department is dedicated to empowering students from d
 ## Expert Talk 
 
  | Sr. No. | Name of Faculty  | Title of the Talk          | Event Name |Date    | Organised by   |
-|:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------|:----------------------------------------------------------------------------------------|
-| 1 | Dr.Sandeep Singla | Expert Talk |  ATAL Academy Faculty Development Program    | 03 January 2024  |GNDEC, Ludhaina| 
-| 2 | Dr.Jagdeep singh | Keynote Session   | Five Days Faculty Development Program on "Recent Advances in Computer Science and Allied Domains"     | 22 September 2023  |Sharda University, Noida| 
-| 1 | Dr.Jagdeep singh |Moodle Workshop   |Moodle Workshop   | 21 September 2023  |DAV Public School, Ludhiana| 
+|:--------|:------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------|:----------------------------------------------------------------------------------------|
+| 1 | Dr. Amit Kamra | Stress Management | Faculty Development Program  | 21st November 2024  |SBCE, Kerela|
+| 2 | Dr. K.S.Mann | Workshop on Shell Programming | Linux Administration   | 6th June 2024  | GNDEC, Ludhiana | 
+| 3 | Dr. Amit kamra | Optimization Using Orange   | Application of AI in Electronis     | 06th December  2024  |NITTR, Chandigarh| 
+| 4 | Dr. K.S.Mann | Workshop on Shell Programming | Linux Administration   | 6th June 2024  | GNDEC, Ludhiana | 
+| 5 | Dr. Amit Kamra | Digital Forensics  |Competetive Coding and Disruptive Tech.   | 09th December 2024  | CU, Chandigarh | 
+| 6 | Dr. Amit Kamra | Visulaization uisng Ornage | GANS and Deep Learning  | 12th December 2024  | Chandigarh University, Chandigarh | 
+| 7 | Pf. Harminder Kaur | Hands on with Github and Docker on Linux | Linux    | 15th July 2024  | GNDEC, Ludhiana | 
+| 8 | Dr. Pankaj Bhambri | Workshop on Shell Programming | Linux Administration   | 6th June 2024  | GNDEC, Ludhiana | 
+| 9 | Dr. Amit Kamra | Artificial Intelligencefor Research: Tools,Techniques, and Trends |  Faculty Development Program  | 14th January 2025  | Central University of Punjab, Bathinda | 
+| 10 | Dr. Jagdeep Singh | Cybersecurity Awareness|   | 3rd April 2025  | Chandigarh University, Chandigarh | 
+| 11 | Pf. Jasleen Kaur | Workshop on Shell Programming | Linux Administration   | 6th June 2024  | GNDEC, Ludhiana | 
 
 ## Publications  
 
