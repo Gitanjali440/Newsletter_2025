@@ -72,14 +72,23 @@ The Information Technology Department is dedicated to empowering students from d
 
 | Sr. No. | Name of Faculty  | Name of Event          | Duration |Date(s)     | Organizing Institute    |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------|:----------------------------------------------------------------------------------------|
-| 1 | Rupinder Kaur| Machine Learning and Its Applications in IoT, Computer Vision and Cloud Computing    | One week   | 10 July to 14 July 2023 |National Institute of Technology, Jamshedpur|
-| 2 | Rupinder Kaur | Blockchain revolutionaizing Artificial Intelliegence     | One week   | 21 August to 25 August 2023|Chandigarh University, SAS Nagar|
-| 3 | Mohanjit Kaur | Blockchain revolutionaizing Artificial Intelliegence     | One week   | 21 August to 25 August 2023|Chandigarh University, SAS Nagar|
-| 4 | Gitanjali | Blockchain revolutionaizing Artificial Intelliegence     | One week   | 21 August to 25 August 2023|Chandigarh University, SAS Nagar|
-| 5 |Harjot Kaur |Outcome based Education    | 3 Days   | 24 August to 26 August 2023|Meerut Institute of Technology, Meerut|
-| 6 | Jaskiran Kaur| Blockchain revolutionaizing Artificial Intelliegence     | One week   | 21 August to 25 August 2023|Chandigarh University, SAS Nagar|
-| 7|Jaskiran Kaur |Outcome based Education    | 3 Days   | 24 August to 26 August 2023|Meerut Institute of Technology, Meerut|
-| 8|Sachin Bagga |Cyber Security & SIEM    | 12 days   | 24 July to 04 August 2023|IBM|
+| 1 | Dr. Pankaj Bhambri| Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
+| 2 | Pf. Rupinder Kaur| Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
+| 3 | Pf. Jaskiran Kaur | Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
+| 4 | Pf. Himani Sharma | Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
+| 5 | Pf. Reema Verma | Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
+| 6 | Dr. Sidharath Jain | DevOps FEP    | One week   | 15th July to 19th July 2024 | Infosys Springboard |
+| 7 | Pf. Gitanjali | Publishing in High-Impact Journals : Strategies for Effective Writing and Leveraging AI in Research     | 5 Days  | 22nd July to 26 July 2024| Banarsidas Chandiwala Institute of Professional Studies|
+| 8 | Pf. Gagneet Kaur| Publishing in High-Impact Journals : Strategies for Effective Writing and Leveraging AI in Research     | 5 Days  | 22nd July to 26 July 2024| Banarsidas Chandiwala Institute of Professional Studies|
+| 9 | Dr. Amit Kamra | 3 days Program on Role of IT in Millets Production AICTE Vanni   | 3 Days   | 8th August to 10th August 2024|AICTE VANNI|
+| 10 | Pf.Rupinder Kaur| 3 days Program on Role of IT in Millets Production AICTE Vanni   | 3 Days   | 8th August to 10th August 2024|AICTE VANNI|
+| 11 | Pf. Harjot Kaur Gill| Advanced Informative and Emerging Trends in Teaching and Research (Innovative Teaching and Learning Pedagogy)  | One week | 24 August to 30 August 2023|Institute of Marketing and Management, Delhi School Of Business Administration, Bhagwan Parshuram Institute Of Technology, Research Foundation of India & RFI-CARE|
+| 12| Pf. Ranjodh Kaur | Deep Learning Application   | 2 Week   | 16 September to 27 September 2024| IIT Roorkee|
+| 13 | Pf. Jagdeep Singh | Deep Learning Application   | 2 Week   | 16 September to 27 September 2024| IIT Roorkee|
+| 14 | Dr. Kamaljit Kaur | Recent Research Trends in Computer Science and Information Technology   | One Week  | 23 September to 27 September 2024|Sharda University|
+| 15 | Pf. Himani Sharma | Recent Research Trends in Computer Science and Information Technology   | One Week  | 23 September to 27 September 2024|Sharda University|
+| 16 | Dr. Reema Verma| Recent Research Trends in Computer Science and Information Technology   | One Week  | 23 September to 27 September 2024|Sharda University|
+| 17 | Dr. Randeep Kaur | Recent Research Trends in Computer Science and Information Technology   | One Week  | 23 September to 27 September 2024|Sharda University|
 | 9|Gagneet Kaur |AI Tools and Prompt Engineering   | One week   | 27 November to 02 December 2023|IBM|
 | 10|Gitanjali |Applied Cloud Computing for Full Stack Web Development  | One week   | 04 December to 08 December 2023|TechSaksham|
 | 11|Kamaljit Kaur |Quantum Computing  | One week   | 18 December to 23 December 2023|Guru Nanak Dev Engineering College, Ludhiana|
