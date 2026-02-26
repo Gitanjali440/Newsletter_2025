@@ -30,8 +30,8 @@ The Information Technology Department is dedicated to empowering students from d
 
 - <p align=justify>Dr. K.S.Mann, Professor and Head(IT) and Dr. Pankaj Bhambri, Assistant Professor(IT) has received Rs 1Lakh Grant for the  for ATAL FDP which held from 30th-4th January 2024.
   
-- <p align=justify> Dr. Sachin Bagga , Assistant Professir(IT), has successfully Completed Ph.D.(2024), got recognition from Infosys for active campuss connect activities and fellowship was awarded for attending 37th International Conference on VLSI Design.
-- <p align=justify> Pf.Rupinder Kaur , Assistant Professir(IT), has received Best paper award in 11th International Conference on Advancements in Engineering & Technology.
+- <p align=justify> Dr. Sachin Bagga , Assistant Professor(IT), has successfully Completed Ph.D.(2024), got recognition from Infosys for active campuss connect activities and fellowship was awarded for attending 37th International Conference on VLSI Design.
+- <p align=justify> Pf.Rupinder Kaur , Assistant Professor(IT), has received Best paper award in 11th International Conference on Advancements in Engineering & Technology.
 
  ![HSR](Images/Faculty_AC1.png)
  
@@ -48,7 +48,7 @@ The Information Technology Department is dedicated to empowering students from d
 | 7 | Pf. Harminder Kaur | Hands on with Github and Docker on Linux | Linux    | 15th July 2024  | GNDEC, Ludhiana | 
 | 8 | Dr. Pankaj Bhambri | Workshop on Shell Programming | Linux Administration   | 6th June 2024  | GNDEC, Ludhiana | 
 | 9 | Dr. Amit Kamra | Artificial Intelligencefor Research: Tools,Techniques, and Trends |  Faculty Development Program  | 14th January 2025  | Central University of Punjab, Bathinda | 
-| 10 | Dr. Jagdeep Singh | Cybersecurity Awareness|   | 3rd April 2025  | Chandigarh University, Chandigarh | 
+| 10 | Dr. Jagdeep Singh | Cybersecurity Awareness|  Linux Administration | 3rd April 2025  | Chandigarh University, Chandigarh | 
 | 11 | Pf. Jasleen Kaur | Workshop on Shell Programming | Linux Administration   | 6th June 2024  | GNDEC, Ludhiana | 
 
 ## Publications  
