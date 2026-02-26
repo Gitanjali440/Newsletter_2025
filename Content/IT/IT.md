@@ -11,7 +11,8 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Department at Glimpse
 
-  IT department is NBA Accrediated since 2008. This year again **IT department got the NBA Accrediation till June, 2025**.
+  Undergraduate Engineeirng Program of Department of Information Technoloy has National Board of Accrediation (NBA) since 2008. 
+   **Again the program has been accrediated by NBA  for the Academic years 2025-2026 to 2027-2028 i.e. till June 2028.**
 
 
   ![HSR](Images/NBA.jpg)
