@@ -19,11 +19,19 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Faculty Achievements  
 
-- Dr. Pankaj Bhambri, Assistant Professor(IT),received the “ISTE Section Best Teacher Award 2023” in the ISTE Section Faculty Convention hosted by Bhai Gurdas Institute of Engineering and Technology, Sangrur on 23rd November 2023.
+- <p align=justify>Dr. Akshay Girdhar,Professor(IT) & Dr. Jagdeep Singh, Assistant Professor (IT) received an appreciation Certificate from Deputy Commissioner, Ludhiana on 9th August 2024.
 
-- Dr. Amit Kamra,Received the certificate of appreciation from AICTE on 17th July 2023 for translating the lectures of SWAYAM course Foundations of Wavelets and Multirate Digital Signal Processing in Punjabi language.
+- <p align=justify> Dr. K.S.Mann, Dr.Amit Kamra & Dr. Pankaj Bhambri has been awarded with the design patent for Smart Helmet( Design No:382600-001).
+- <p align=justify>Dr. K.S.Mann, Professor and Head(IT),received the "Certification of Appreciation" in recognition of invaluable contributions as a Founder Member/Office Bearer/President of SLIET Alumini Association from SLIET Alumini Association dated on 9th February 2025.  
+- <p align=justify>Dr. Amit Kamra, Assistant Professor (IT),received "Indian Society of Technical Education (ISTE) Section Best Teacher Award 2024" for outstanding achievement in the field of technical education and research, hosted by Bhai Gurdas Institute of Engineering & Technology, Sangrur on 25th October 2024.
+- <p align=justify>Dr. K.S.Mann, Professor and Head(IT) and Dr. Amit Kamra, Assistant Professor(IT) has received Rs 2Lakh Grant for the AICTE VAANI held from 8th-10th August 2024 and 3.5 Lakh grant for ATAL FDP which held from 16th-21st December 2024.
   
--   Dr. Amit Kamra,Received the certificate of appreciation from AICTE on 29th November 2023 for validation of lectures of the SWAYAM course Programming in Java in Punjabi language
+- <p align=justify> Dr. Pankaj Bhambri, Assistant Professir(IT), has been recognized among the Top 2% Scientists in the World Ranking of Top 2% scientists" jointly published by Standard University & Elsevier(2025).
+
+- <p align=justify>Dr. K.S.Mann, Professor and Head(IT) and Dr. Pankaj Bhambri, Assistant Professor(IT) has received Rs 1Lakh Grant for the  for ATAL FDP which held from 30th-4th January 2024.
+  
+- <p align=justify> Dr. Sachin Bagga , Assistant Professir(IT), has successfully Completed Ph.D.(2024), got recognition from Infosys for active campuss connect activities and fellowship was awarded for attending 37th International Conference on VLSI Design.
+- <p align=justify> Pf.Rupinder Kaur , Assistant Professir(IT), has received Best paper award in 11th International Conference on Advancements in Engineering & Technology.
 
  ![HSR](Images/Faculty_AC1.png)
  
