@@ -167,16 +167,37 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 | 17      | Gaurav               | GlowLogics Solutions Pvt. Ltd.             | 5.2           |
 | 18      | Gurjot Singh         | TTEC                                       | 3             |
 | 19      | Gurneet Singh        | 75way Technologies Pvt. LTD.               | 3.6           |
-| 20      | Gurpartap Singh      | Infosys                                    | 3.6            |
-| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
-| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
-| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
-| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
-| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
-| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
-| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
-| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
-| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 20      | Gurpartap Singh      | Infosys                                    | 3.6           |
+| 21      | Harjot singh         |                                            |               |
+| 22      | Harleen Kaur         |                                            |               |
+| 23      | Inzamamul Houqe      |                                            |               |
+| 24      | Jasmeen Kaur Gill    |                                            |               |
+| 25      | Kunal Rawat          |                                            |               |
+| 26      | Mankirat Singh       |                                            |               |
+| 27      | Manpreet Kaur        |                                            |               |
+| 28      | Manpreet Kaur        |                                            |               |
+| 29      | Md. Raihan Shamin    |                                            |               |
+| 30      | Natasha              |                                            |               |
+| 31      | Naunihal Singh       |                                            |               |
+| 32      | Navjot Singh         |                                            |               |
+| 33      | Navneet Kaur         |                                            |               |
+| 34      | Navpreet Kaur        |                                            |               |
+| 35      | Parvinder Singh      |                                            |               |
+| 36      | Prashant Singh Yadav |                                            |               |
+| 37      | Pratham Goyal        |                                            |               |
+| 38      | Priya                |                                            |               |
+| 39      | Puneet Walia         |                                            |               |
+| 40      | Rajat Garg           |                                            |               |
+| 41      | Santa Singh          |                                            |               |
+| 42      | Shabnam              |                                            |               |
+| 43      | Shivam               |                                            |               |
+| 44      | Shivshant Prasad     |                                            |               |
+| 45      | Shubham Kumar        |                                            |               |
+| 46      | Tanya Sood           |                                            |               |
+| 47      | Vaishnavi Bharambe   |                                            |               |
+| 48      | Yash                 |                                            |               |
+
+
 
 
 **Batch : 2020-2024**
