@@ -99,11 +99,11 @@ The Information Technology Department is dedicated to empowering students from d
 | 25|Dr. Randeep Kaur | Future Proofing Indias semiconductor Industry:Building Skilled Workforce | One week   |  16th Decemeber - 21st December 2024| ATAL Academy|
 | 26|Pf. Gitanjali | Future Proofing Indias semiconductor Industry:Building Skilled Workforce | One week   |  16th Decemeber - 21st December 2024| ATAL Academy|
 | 27| Dr. Pankaj Bhambri | Advanced Analytics for Next-Generation Industrial Processes| One week   |  23rd December to 28th December 2024|Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior|
-| 28| Pf. Jaskiran Kaur | Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
-| 29| Pf. Gitanjali | Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
-| 30| Dr. Kamaljit Kaur| Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
-| 31| Dr. Amit Kamra| Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
-| 32| Dr. Jagdeep Singh| Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th January 2025 | ATAL Academy|
+| 28| Pf. Jaskiran Kaur | Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber | One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
+| 29| Pf. Gitanjali | Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber | One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
+| 30| Dr. Kamaljit Kaur| Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  |One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
+| 31| Dr. Amit Kamra| Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  |One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
+| 32| Dr. Jagdeep Singh| Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber | One week   |  30th December 2024 to 4th January 2025 | ATAL Academy|
 | 33| Dr. Jagdeep Singh| Cyber Security and Intrusion Detection Forensics  |One Week  |  20th January to 25th January 2025 | ATAL Academy|
 | 34| Pf. Himani Sharma | Intelligent Computing Techniques and Its Engineering Applications |One Week  |  6th January to 10th January 2025 | ATAL Academy|
 | 35| Pf. Harminder Kaur | Intelligent Computing Techniques and Its Engineering Applications |One Week  |  6th January to 10th January 2025 | ATAL Academy|
