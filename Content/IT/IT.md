@@ -38,7 +38,7 @@ The Information Technology Department is dedicated to empowering students from d
 - <p align=justify> Dr. Jagdeep Singh , Assistant Professor(IT), Awarded a patent titled “ IoT Enabled Cybersecurity Device ”(Patent No. 423830-001).
 
 
- ![HSR](Images/Faculty_AC1.png)
+
  
 ## Expert Talk 
 
@@ -58,17 +58,17 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Publications  
 
-- **Dr. Sandeep Kumar Singla**, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.
-- **Dr. Pankaj Bhambri**, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.
-- **Dr. Jagdeep Singh**, “Sustainable machining of Inconel 718 using minimum quantity lubrication: Artificial intelligence-based process modelling”, Heliyon, August 2024.
-- **Dr. Randeep Kaur**, “Predictive Analytics & Validation for Technology Intervention Recommendation System for Autism: A Machine Learning Framework”, International Journal of INTELLIGENT SYSTEMS & APPLICATIONS in Engineering, July 2024.
-- **Dr. Jagdeep Singh**, “Modeling and optimization of hard turning: predictive analysis of surface roughness and cutting forces in AISI 52100 steel using machine learning”, International Journal on Interactive Design and Manufacturing , November 2024.
-- **Pf. Rupinder Kaur**,"Exploring the Role of Computer Vision in Product Design and Development: A Comprehensive Review", International Journal on Interactive Design and Manufacturing(IJIDeM), July 2024.
-- **Pf. Rupinder Kaur**,"Integrating Sustainable Energy Systems and Artificial Intelligence: Transforming the Future of Energy", Springer Scopus Indexed, December 2024.
-- **Dr. Jagdeep Singh**,"Renewable Energy Optimization for Distributed EV Charging Stations Using HBA and Smart Contracts",IEEE Internet of Things, March 2025.
-- **Dr. Pankaj Bhambri**,"nBLAST-JC: An accelerated deployment of nucleotide BLAST on high-performance cluster, Heliyon, May 2025.
-- **Dr. Palwinder Kaur**,"Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy, International Journal of Environmental Sciences,May 2025
-- **Dr. Randeep Kaur**,""Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy, International Journal of Environmental Sciences,May 2025.
+- **<p align=justify>Dr. Sandeep Kumar Singla**, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.
+- **<p align=justify>Dr. Pankaj Bhambri**, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.
+- **<p align=justify>Dr. Jagdeep Singh**, “Sustainable machining of Inconel 718 using minimum quantity lubrication: Artificial intelligence-based process modelling”, Heliyon, August 2024.
+- **<p align=justify>Dr. Randeep Kaur**, “Predictive Analytics & Validation for Technology Intervention Recommendation System for Autism: A Machine Learning Framework”, International Journal of INTELLIGENT SYSTEMS & APPLICATIONS in Engineering, July 2024.
+- **<p align=justify>Dr. Jagdeep Singh**, “Modeling and optimization of hard turning: predictive analysis of surface roughness and cutting forces in AISI 52100 steel using machine learning”, International Journal on Interactive Design and Manufacturing , November 2024.
+- **<p align=justify>Pf. Rupinder Kaur**,"Exploring the Role of Computer Vision in Product Design and Development: A Comprehensive Review", International Journal on Interactive Design and Manufacturing(IJIDeM), July 2024.
+- **<p align=justify>Pf. Rupinder Kaur**,"Integrating Sustainable Energy Systems and Artificial Intelligence: Transforming the Future of Energy", Springer Scopus Indexed, December 2024.
+- **<p align=justify>Dr. Jagdeep Singh**,"Renewable Energy Optimization for Distributed EV Charging Stations Using HBA and Smart Contracts",IEEE Internet of Things, March 2025.
+- **<p align=justify>Dr. Pankaj Bhambri**,"nBLAST-JC: An accelerated deployment of nucleotide BLAST on high-performance cluster, Heliyon, May 2025.
+- **<p align=justify>Dr. Palwinder Kaur**,"Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy, International Journal of Environmental Sciences,May 2025
+- **<p align=justify>Dr. Randeep Kaur**,""Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy, International Journal of Environmental Sciences,May 2025.
 
 
 
@@ -117,34 +117,103 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Industry Institute Interaction
 
+- <p align=justify>Industry–Institute Interaction is essential for B.Tech IT students as it ensures that theoretical knowledge is complemented with practical exposure. It prepares students to meet dynamic technological demands and enhances their career prospects in the IT industry.
+
 ![HSR](Images/Industrial_visit.png)
 
 
 ## Student's Corner 
 
-### Sports & Extracuricular Achievements
+## GATE Qualified Students
 
-![HSR](Images/sport_achieve24.jpeg)
 
+| S.No.                      | Name of Student                      | Enrollment ID                                           | Year | 
+|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|
+| 1      | Naunihal Singh  |  T456J19 | 2024  | 
+| 2      | Devesh Sharma    |  R523B90 | 2025  | 
+
+
+   
+## Students who cleared NPTEL MOOC’s courses
+
+| Sr.No. | Name                    | Course Name                           |       
+|:--------|:-------------------------|-----------------------------------------------
+| 1      | Armaan Wadhwa          |  INTRODUCTION TO INDUSTR Y 4.0 AND INDUSTRIAL INTERNET OF THINGS                         
+| 2      | Brahmjot Singh          | DATAANALYTICS WITH PYTHON                            
+| 3      | Brahmjot Singh             | INTRODUCTION TO INDUSTR Y 4.0 AND INDUSTRIAL INTERNET OF THINGS                        
+| 4      | Brahmjot Singh         | ETHICAL HACKING                          
+| 5      | Taranpreet Kaur         |SOCIAL NETWORKS                            
+| 6      | Armaan Wadhwa           | PRIVACY AND SECURITY IN ONLINE SOCIAL MEDIA                          
+| 7      | Armaan Wadhwa        |  APPLIED ACCELERATED ARTIFICIAL INTELLIGENCE                         
+| 8      | Jashanjot Singh         | PROBLEM SOLVING THROUGH PROGRAMMING IN C                          
+| 9      | Ansh Kumar       | BLOCKCHAIN AND ITS APPLICATIONS                           
+| 10     | Ansh Kumar         | AFFECTIVE COMPUTING                           
+| 11     | Ansh Kumar         | DATA ANALYTICS WITH PYTHON                            
+| 12     | Ansh Kumar       | INTRODUCTION TO INDUSTRY 4.0 AND INDUSTRIAL INTERNET OF THINGS                            
+
+
+## Students of IT bagged various positions in Sports  
+
+| Sr.No. | Name                    | Achievements   |                                           
+|-------|------------------|-----------------------------------------------------------------------------------------|
+| 1     |  Anu Grewal  | Recognized for outstanding performance in cycling, clinching the title of Best Cyclist at PTU |
+| 2     |  Anu Grewal  | 1st place in High Jump at PTU athletic meet |
+| 3     |  Sunny Kumar  | Member College Wt. lifting Team(Gold medal in PTU) |
+| 4     |  Sunny Kumar  | Member College Handball Team;2nd in PTU |
+| 5     |  Sunny Kumar  | 1st in Inter-yr Kabaddi League 
+| 6     |  Trisha | Secured Inter College Gold in Lawn Tennis |
+| 7     |  Vansh Singh | Secured Inter College silver in Badminton |               
+| 8     |  Ajayvir Singh |  3RD IN PTU INTERCOLLEGE TABLE-TENNIs TOURNAMENT |
+| 9     |  Raghav Sharma |   FIRST IN GNE INTER-YR KABADDI LEAGUE |
+| 10     |  Karan Yadav |   FIRST IN GNE INTER-YR KABADDI LEAGUE |
+| 11     |  Manpreet Singh |    1ST IN GNE INTER-YEAR FOOTBALL LEAGUE |
+| 12     |  Arshpreet Singh|    2ND IN GNE INTER-YEAR FOOTBALL LEAGUE |
+| 13      |  Jasmeet Nain|     1ST IN GNE INTER-YEAR FOOTBALL LEAGUE |
+| 14      |  Eshan Sharma|     1ST IN GNE INTER-YEAR CRICKET TOURNAMENT |
+
+###  Extracuricular Achievements
 
 ![HSR](Images/Radio.jpeg)
 
-## ITIAN Club
+## Innovative Events and Technical Activities Led by the Department of Information Technology through the ITian Club
 
 - <p align=justify>The ITIAN Club, established in 2021, is a dynamic technology-driven initiative dedicated to fostering innovation and technical excellence among students. Open to all who have a passion for technology and its real-world applications, the club serves as a vibrant platform for learning, collaboration, and skill development.
  - <p align=justify>Through a variety of engaging events, hands-on workshops, and interactive sessions, the ITIAN Club encourages members to explore emerging technologies and enhance their practical knowledge. It continues to empower students by nurturing creativity, technical competence, and a spirit of innovation.
 
-
-  ![HSR](Images/Itian_collage.jpeg)
-
 **TEAM MEMBERS**
 
- ![HSR](Images/Itian_Team.jpg)
+ | CORE TEAM |                                         
+|---------|
+Coordinator - Ashmeet Kaur
+Co-Coordinator - Simarjot Singh
+Public Relations Officer - Abhishek
+Secretary - Harsh Kapoor
+HR- Arshdeep Kaur
 
- 
- ![HSR](Images/Itian_Events1.png)
+| SUB- CORE TEAM |                                         
+|---------|
+Event Management Head - Saarvi
+Creative Head - Priyanshu
+Database Head - Jasmeet Kaur
+Discipline Head - Harmanpreet Singh
+Content Head - Parkhi Gupta
+Technical Head - Brahamjot Singh
+Social Media Head - Taranpreet Kaur
+Software Head - Jasnoor Kaur
 
- ![HSR](Images/Itian_Event.png)
+| Sr.No. | Name of the Activity/Event                  | Date                           |       
+|-------|----------------------------|-----------------------------------------------------------------------------------------|
+|  1     | ORIENTATION PROGRAM 2024-2025           | 16th July 2024      |
+|  2     | CODING NINJA                        | 7th September 2024      |
+|  3     | GIT SYNC                       | 12th September 2024      |
+|  4     | CODEKAZE                       | 18th September 2024       |
+|  5     | TECHNO: QUIZ and TRICKS                       | 25th October 2024        |
+|  6     | NINJA SLAYGROUND 2.0                       | 18th November 2024        |
+|  7     | WEBDEV ARENA                       | 27th February 2025      |
+|  8     | TREASURE TRAIL                        | 25th March 2025      |
+|  9     | QuizPhOnic                      | 23rd April 2025      |
+
+  ![HSR](Images/Itian_collage.jpeg)
 
 
 
@@ -261,7 +330,7 @@ The Information Technology Department is dedicated to empowering students from d
 | Total Number of Final year students                                      | 131       | 131       |
 | No. of students placed in Companies or Government sector                 | 62        | 65        |
 | No. of students admitted to higher studies with valid Qualifying scores  | 5         | 11        |
-| No. of students turned entrepreneur in Engineering/ Technology           | 0         | 0         |
+
 
  
 
