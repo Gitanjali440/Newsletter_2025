@@ -71,10 +71,10 @@ The Information Technology Department is dedicated to empowering students from d
 
 
 | Sr. No. | Name of Faculty  | Name of Event          | Duration |               Date(s)     |             Organizing Institute    |
-|:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------|:---------------------------------------------------------------------|
+|:--------|:----------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------|:---------------------------------------------------------------------|
 | 1 | Dr. Pankaj Bhambri| Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
 | 2 | Pf. Rupinder Kaur| Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
-| 3 | Pf. Jaskiran Kaur | Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
+| 3 | Pf. Jaskiran Kaur | Hands on Github and Docker on Linux  | 3 Days   | 15th July to  17th July 2024 |GNDEC |
 | 4 | Pf. Himani Sharma | Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
 | 5 | Pf. Reema Verma | Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
 | 6 | Dr. Sidharath Jain | DevOps FEP    | One week   | 15th July to 19th July 2024 | Infosys Springboard |
@@ -89,25 +89,25 @@ The Information Technology Department is dedicated to empowering students from d
 | 15 | Pf. Himani Sharma | Recent Research Trends in Computer Science and Information Technology   | One Week  | 23 September to 27 September 2024|Sharda University|
 | 16 | Dr. Reema Verma| Recent Research Trends in Computer Science and Information Technology   | One Week  | 23 September to 27 September 2024|Sharda University|
 | 17 | Dr. Randeep Kaur | Recent Research Trends in Computer Science and Information Technology   | One Week  | 23 September to 27 September 2024|Sharda University|
-| 9|Gagneet Kaur |AI Tools and Prompt Engineering   | One week   | 27 November to 02 December 2023|IBM|
-| 10|Gitanjali |Applied Cloud Computing for Full Stack Web Development  | One week   | 04 December to 08 December 2023|TechSaksham|
-| 11|Kamaljit Kaur |Quantum Computing  | One week   | 18 December to 23 December 2023|Guru Nanak Dev Engineering College, Ludhiana|
-| 12|Rupinder Kaur |Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
-| 13|Jaskiran Kaur |Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
-| 14|Sandeep Kumar Singla|NBA Accreditation and Teaching Learning in Engineering  | One week   | 01 January to 06 January 2024|Guru Nanak Dev Engineering College, Ludhiana|
-| 15|Amit Kamra|NBA Accreditation and Teaching Learning in Engineering  | One week   | 01 January to 06 January 2024|Guru Nanak Dev Engineering College, Ludhiana|
-| 16|Pankaj Bhambri|NBA Accreditation and Teaching Learning in Engineering  | One week   | 01 January to 06 January 2024|Guru Nanak Dev Engineering College, Ludhiana|
-| 17|Gagneet Kaur|Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
-| 18|Gagneet Kaur|Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
-| 19|Ranjodh Kaur|Building Advanced Data Analytics Applications with Cloud  | One week   | 08 January to 12 January 2024|NextGen Employability Program|
-| 20|Himani Sharma|Building Advanced Data Analytics Applications with Cloud  | One week   |08 January to 12 January 2024|NextGen Employability Program|
-| 21|Gitanjali|Recent Trends in Teaching and Learning Pedagogy (Multidisciplinary)  | One week   |  16 January to 20 January 2024|Yashoda Technical Campus, Satara|
-| 22|Jaskiran Kaur|Recent Trends in Teaching and Learning Pedagogy (Multidisciplinary)  | One week   |  16 January to 20 January 2024|Yashoda Technical Campus, Satara|
-| 23|Rupinder Kaur|Recent Trends in Teaching and Learning Pedagogy (Multidisciplinary)  | One week   |  16 January to 20 January 2024|Yashoda Technical Campus, Satara|
-| 24|Sachin Bagga|Micropython Primer | One week   | 22 May to 26 May 2024|NIELIT, Calicut|
-| 25|Himani Sharma|Machine Learning and NLP using Python | One week   |  24 June to 28 June 2024|Infosys Springboard|
-| 26|Reema Verma|Machine Learning and NLP using Python | One week   |  24 June to 28 June 2024|Infosys Springboard|
-
+| 18 |Dr. Sandeep Kumar Singla |"Deep Learning for Engineering Applications"   | One week   | 2nd September - 6th September 2024| NITTR Chandigarh|
+| 19 | Pf. Ranjodh kaur | Building Web Development Solutions with Cloud Computing  | 5 Days   | 17th September - 21st September 2024|Next Gen Employability Program, Edunet Foundation|
+| 20| Dr. Randeep Kaur | Generative AI  | One week   |18th November to 22 November 2024|Infosys Springboard |
+| 21| Pf. Harjot Kaur| Applied AI: Practical Implementations | One week   |  18th November to 22 November 2024| TechSaksham Program |
+| 22|Dr. Sandeep Kumar Singla| Generative AI Unveiled: Concepts, Models, and Real-world Applications | One week   |  2nd December - 7th December 2024 |AICTE|
+| 23|Pf. Ranjodh kaur| Faculty Enablement Program(FEP) on Python Programming | One week   |  9th December - 13th December|Infosys Springboard|
+| 24 |Pf. Parminder Kaur Wadhwa | Incorporating sustainable development goals in Bringing out Industry Ready Professionals | One week   | 14th December - 19th December | ATAL Academy|
+| 25|Dr. Randeep Kaur | Future Proofing Indias semiconductor Industry:Building Skilled Workforce | One week   |  16th Decemeber - 21st December 2024| ATAL Academy|
+| 26|Pf. Gitanjali | Future Proofing Indias semiconductor Industry:Building Skilled Workforce | One week   |  16th Decemeber - 21st December 2024| ATAL Academy|
+| 27| Dr. Pankaj Bhambri | Advanced Analytics for Next-Generation Industrial Processes| One week   |  23rd December to 28th December 2024|Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior|
+| 28| Pf. Jaskiran Kaur | Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
+| 29| Pf. Gitanjali | Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
+| 30| Dr. Kamaljit Kaur| Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
+| 31| Dr. Amit Kamra| Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th Januar 2025 | ATAL Academy|
+| 32| Dr. Jagdeep Singh| Emerging Trends in Information System Security using AI & Data Science for Next- Generation Cyber  One week   |  30th December 2024 to 4th January 2025 | ATAL Academy|
+| 33| Dr. Jagdeep Singh| Cyber Security and Intrusion Detection Forensics  |One Week  |  20th January to 25th January 2025 | ATAL Academy|
+| 34| Pf. Himani Sharma | Intelligent Computing Techniques and Its Engineering Applications |One Week  |  6th January to 10th January 2025 | ATAL Academy|
+| 35| Pf. Harminder Kaur | Intelligent Computing Techniques and Its Engineering Applications |One Week  |  6th January to 10th January 2025 | ATAL Academy|
+| 36| Pf. Reema Verma | Intelligent Computing Techniques and Its Engineering Applications |One Week  |  6th January to 10th January 2025 | ATAL Academy|
 
 
 ## Industry Institute Interaction
