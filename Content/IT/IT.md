@@ -70,8 +70,8 @@ The Information Technology Department is dedicated to empowering students from d
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
-| Sr. No. | Name of Faculty  | Name of Event          | Duration |Date(s)     | Organizing Institute    |
-|:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------|:----------------------------------------------------------------------------------------|
+| Sr. No. | Name of Faculty  | Name of Event          | Duration |               Date(s)     |             Organizing Institute    |
+|:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------|:---------------------------------------------------------------------|
 | 1 | Dr. Pankaj Bhambri| Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
 | 2 | Pf. Rupinder Kaur| Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
 | 3 | Pf. Jaskiran Kaur | Hands on Github and Docker on Linux  | 3 Days   | 15th July to 17th July 2024 |GNDEC |
