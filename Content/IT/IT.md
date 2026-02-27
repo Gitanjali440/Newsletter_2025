@@ -115,12 +115,6 @@ The Information Technology Department is dedicated to empowering students from d
 | 36| Pf. Reema Verma | Intelligent Computing Techniques and Its Engineering Applications |One Week  |  6th January to 10th January 2025 | ATAL Academy|
 
 
-## Industry Institute Interaction
-
-- <p align=justify>Industry–Institute Interaction is essential for B.Tech IT students as it ensures that theoretical knowledge is complemented with practical exposure. It prepares students to meet dynamic technological demands and enhances their career prospects in the IT industry.
-
-![HSR](Images/Industrial_visit.png)
-
 
 ## Student's Corner 
 
