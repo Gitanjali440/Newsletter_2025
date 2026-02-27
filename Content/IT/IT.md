@@ -132,18 +132,18 @@ The Information Technology Department is dedicated to empowering students from d
 
 | Sr.No. | Name                    | Course Name                           |       
 |:--------|:-------------------------|-----------------------------------------------
-| 1      | Armaan Wadhwa          |  INTRODUCTION TO INDUSTR Y 4.0 AND INDUSTRIAL INTERNET OF THINGS                         
-| 2      | Brahmjot Singh          | DATAANALYTICS WITH PYTHON                            
-| 3      | Brahmjot Singh             | INTRODUCTION TO INDUSTR Y 4.0 AND INDUSTRIAL INTERNET OF THINGS                        
-| 4      | Brahmjot Singh         | ETHICAL HACKING                          
-| 5      | Taranpreet Kaur         |SOCIAL NETWORKS                            
-| 6      | Armaan Wadhwa           | PRIVACY AND SECURITY IN ONLINE SOCIAL MEDIA                          
-| 7      | Armaan Wadhwa        |  APPLIED ACCELERATED ARTIFICIAL INTELLIGENCE                         
-| 8      | Jashanjot Singh         | PROBLEM SOLVING THROUGH PROGRAMMING IN C                          
-| 9      | Ansh Kumar       | BLOCKCHAIN AND ITS APPLICATIONS                           
-| 10     | Ansh Kumar         | AFFECTIVE COMPUTING                           
-| 11     | Ansh Kumar         | DATA ANALYTICS WITH PYTHON                            
-| 12     | Ansh Kumar       | INTRODUCTION TO INDUSTRY 4.0 AND INDUSTRIAL INTERNET OF THINGS                            
+| 1      | Armaan Wadhwa          |  Introduction to Industry 4.0 and Industrial Internet of Things |
+| 2      | Brahmjot Singh          | Data Analytics with Python|                            
+| 3      | Brahmjot Singh             | Introduction to Industry 4.0 and Industrial Internet of Things                        
+| 4      | Brahmjot Singh         | Ethical Hacking                         
+| 5      | Taranpreet Kaur         | Social Networks                           
+| 6      | Armaan Wadhwa           | Privacy and Security in Online Social Media                         
+| 7      | Armaan Wadhwa        |  Applied Accelerated Artificial Intelligence                        
+| 8      | Jashanjot Singh         | Problem solving through Programming in C|                          
+| 9      | Ansh Kumar       | Blockchain and its Applications                          
+| 10     | Ansh Kumar         | Affective Computing                         
+| 11     | Ansh Kumar         | Data Analytics with Python                            
+| 12     | Ansh Kumar       | Introduction to Industry 4.0 and Industrial Internet of Things                           
 
 
 ## Students of IT bagged various positions in Sports  
@@ -157,13 +157,13 @@ The Information Technology Department is dedicated to empowering students from d
 | 5     |  Sunny Kumar  | 1st in Inter-yr Kabaddi League 
 | 6     |  Trisha | Secured Inter College Gold in Lawn Tennis |
 | 7     |  Vansh Singh | Secured Inter College silver in Badminton |               
-| 8     |  Ajayvir Singh |  3RD IN PTU INTERCOLLEGE TABLE-TENNIs TOURNAMENT |
-| 9     |  Raghav Sharma |   FIRST IN GNE INTER-YR KABADDI LEAGUE |
-| 10     |  Karan Yadav |   FIRST IN GNE INTER-YR KABADDI LEAGUE |
-| 11     |  Manpreet Singh |    1ST IN GNE INTER-YEAR FOOTBALL LEAGUE |
-| 12     |  Arshpreet Singh|    2ND IN GNE INTER-YEAR FOOTBALL LEAGUE |
-| 13      |  Jasmeet Nain|     1ST IN GNE INTER-YEAR FOOTBALL LEAGUE |
-| 14      |  Eshan Sharma|     1ST IN GNE INTER-YEAR CRICKET TOURNAMENT |
+| 8     |  Ajayvir Singh |  3rd in PTU Inter College Table-Tennis Toournament |
+| 9     |  Raghav Sharma |   1st in GNDEC Inter-Year Kabaddi League|
+| 10     |  Karan Yadav |    1st in GNDEC Inter-Year Kabaddi League |
+| 11     |  Manpreet Singh |     1st in GNDEC Inter-Year Football League|
+| 12     |  Arshpreet Singh|    2ND IN GNDEC Inter-Year Football League |
+| 13      |  Jasmeet Nain|     1st in GNDEC Inter-Year Football League |
+| 14      |  Eshan Sharma|     1st in GNDEC Inter-Year Cricket Tournament |
 
 ###  Extracuricular Achievements
 
