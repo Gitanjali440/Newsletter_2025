@@ -204,10 +204,11 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
 | Sr. No. | Candidate Name       | Company Name                               | Package (LPA) |
 |:--------|:---------------------|:-------------------------------------------|:--------------|
-| 1       | Chandan Kumar        | Argusoft                                   | 7.12          |
-| 2       | Himanshu Mahajan     | Stylumia Intelligence Technology Pvt. Ltd. | 7             |
-| 3       | Lovish Malhotra      | JMAN Group                                 | 5             |
-| 4       | Ananya Mahajan       | KPMG                                       | 5             |
+| 1       | Neeraj Kumar         | Antier solutions                           | 4.0           |
+| 2       | Chandan Kumar        | Argusoft                                   | 7.12          |
+| 3       | Himanshu Mahajan     | Stylumia Intelligence Technology Pvt. Ltd. | 7             |
+| 4       | Lovish Malhotra      | JMAN Group                                 | 5             |
+| 5       | Ananya Mahajan       | KPMG                                       | 5             |
 | 6       | Harleen Kaur         | SafeAeon Inc.                              | 4.12          |
 | 7       | Gaganpreet Singh     | SafeAeon Inc.                              | 4.12          |
 | 8       | Ravleen Kaur         | Airnet Travels and Cargo Pvt. Ltd.         | 3.6           |
@@ -217,37 +218,35 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 | 12      | Prabhjot Singh       | MWIDM                                      | 3.5           |
 | 13      | Preet Singh Sahota   | MWIDM                                      | 3.5           |
 | 14      | Amandeep Singh       | MWIDM                                      | 3.5           |
-| 15      | Neeraj Kumar         | MWIDM                                      | 3.5           |
+| 15      | Monika               | JMAN Group                                 | 5             |
 | 16      | Kumar Abhinav        | Iotasol Technologies Pvt. Ltd.             | 2.7           |
 | 17      | Hemant Sahdev        | Airnet Travels and Cargo Pvt. Ltd.         | 2.7           |
 | 18      | Sejal Madaan         | PIRAMAL GROUP                              | 2.5           |
 | 19      | Harmanpreet Kaur     | Ralson (India) Limited                     | 2.4           |
 | 20      | Aman Kumar           | Deepak Fasteners                           | 2.16          |
+| 21      | Ravi Ranjan Kumar    | Deepak Fasteners                           | 2.16          |
+| 22      | Prerna Sharma        | KPMG                                       | 5             |
+| 23      | Harsh Mishra         | Nebero Systems Private Limited             | 6             |
+| 24      | Sehajbir Singh       | SafeAeon Inc.                              | 4.12          |
+| 25      | Sakshi Pundir        | SafeAeon Inc.                              | 4.12          |
+| 26      | Palakpreet Kaur      | ShortHill Tech                             | 4.8           |
+| 27      | Diksha               | ShortHill Tech                             | 4.8           |
+| 28      | Harsh Mishra         | TCS                                        | 7             |
+| 29      | Muskan Saini         | Capgemini                                  | 4             |
+| 30      | Abhishek Kumar       | TCS(Digital)                               | 7             |
+| 31      | Prabhjot Singh       | TCS (Ninja)                                | 3.36          |
+| 32      | Amay Avasthi         | TCS (Ninja)                                | 3.36          |
+| 33      | Ajit Kumar           | TCS (Prime)                                |  9            |
+| 34      | Navneet Kaur         | Airnet Travels and Cargo Pvt. Ltd.         | 2.16          |
+| 35      | Harjobandeep Singh   | Airnet Travels and Cargo Pvt. Ltd.         | 2.16          |
+| 36      | Aditya Kumar Tulsyan | AlphaNumeric Ideas Pvt. Ltd                | 2.5           |
+| 37      | Ayush Shekhar        | AlphaNumeric Ideas Pvt. Ltd                | 2.5           |
+| 38      | Kumari Shushma       | AlphaNumeric Ideas Pvt. Ltd                | 2.5           |
+| 39      | Jasmeet Singh        | AlphaNumeric Ideas Pvt. Ltd                | 2.5           |
+| 40      | Neeraj Kumar       | BizMerlin HR.                                | 4.82          |
 
 
-**Batch : 2019-2023**
 
-| Sr. No. | Candidate Name       | Company Name                              | Package (LPA) |
-|:--------|:---------------------|:------------------------------------------|:--------------|
-| 1       | Shivay Bhandari      | Zomato Limited                            | 20            |
-| 2       | Abhay Tiwari         | TCS Digital                               | 7.6           |
-| 3       | Balram Yadav         | XenonStack                                | 7.5           |
-| 4       | Shubham Chaudhary    | XenonStack                                | 7.5           |
-| 6       | Divya Juhi           | Argusoft India Ltd.                       | 7.12          |
-| 7       | Lokesh Dhingra       | Argusoft India Ltd.                       | 7.12          |
-| 8       | Tanuj Sharma         | Stylumia Intelligence Technology Pvt. Ltd.| 7             |
-| 9       | Prabhjot Kaur        | Hackwith Infy (INFOSYS) (DSE)             | 6.25          |
-| 10      | Sakshi Bhumbla       | Brillio                                   | 6             |
-| 11      | Ankush Bansal        | Incture Technologies                      | 6             |
-| 12      | Deepak Kumar         | Yatra                                     | 6             |
-| 13      | Ashutosh Sharma      | CHICMIC                                   | 5.75          |
-| 14      | Abhay Tiwari         | Bizmerlin HR                              | 5.28          |
-| 15      | Aastha               | Alert Enterprises                         | 5             |
-| 16      | Manpreet Kaur        | ShortHill Tech                            | 4.8           |
-| 17      | Jasnoor Kaur Jassal  | Venture Pact                              | 4.5           |
-| 18      | Aman Kumar Gandhi    | TCS Ninja                                 | 4             |
-| 19      | Muskan Sharma        | MWIDM                                     | 3.5           |
-| 20      | Raju Kumar Prasad    | Tech Mahindra                             | 2.65          |
 
 ## Placement Summary
 
