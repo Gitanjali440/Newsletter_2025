@@ -126,7 +126,8 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## ITIAN Club
 
-The ITIAN Club is a technology based club created in 2021. The club is open to all students who are interested in technology and its application in the real world. The club provides a platform for students to learn about various aspects of technology and its application. The club also organizes various events and workshops related to technology.
+The ITIAN Club, established in 2021, is a dynamic technology-driven initiative dedicated to fostering innovation and technical excellence among students. Open to all who have a passion for technology and its real-world applications, the club serves as a vibrant platform for learning, collaboration, and skill development.
+Through a variety of engaging events, hands-on workshops, and interactive sessions, the ITIAN Club encourages members to explore emerging technologies and enhance their practical knowledge. It continues to empower students by nurturing creativity, technical competence, and a spirit of innovation.
 
 
   ![HSR](Images/Itian_collage.jpeg)
