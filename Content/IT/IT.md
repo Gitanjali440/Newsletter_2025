@@ -22,6 +22,9 @@ The Information Technology Department is dedicated to empowering students from d
 - <p align=justify>Dr. Akshay Girdhar,Professor(IT) & Dr. Jagdeep Singh, Assistant Professor (IT) received an "Appreciation Certificate from Deputy Commissioner", Ludhiana on 9th August 2024.They have been actively involved as a consultant in various prestigious projects, showcasing their expertise and dedication to their field.
 
 - <p align=justify> Dr. K.S.Mann, Dr.Amit Kamra & Dr. Pankaj Bhambri has been awarded with the design patent for Smart Helmet( Design No:382600-001).
+
+- <p align=justify>Dr. Akshay Girdhar,Professor(IT) & Dr. Jagdeep Singh, has developed and maintained the Admission Portal to ensure the smooth conduct of the complete admission process for all UG and PG courses.
+
 - <p align=justify>Dr. K.S.Mann, Professor and Head(IT),received the "Certification of Appreciation" in recognition of invaluable contributions as a Founder Member/Office Bearer/President of SLIET Alumini Association from SLIET Alumini Association dated on 9th February 2025.  
 - <p align=justify>Dr. Amit Kamra, Assistant Professor (IT),received "Indian Society of Technical Education (ISTE) Section Best Teacher Award 2024" for outstanding achievement in the field of technical education and research, hosted by Bhai Gurdas Institute of Engineering & Technology, Sangrur on 25th October 2024.
 - <p align=justify>Dr. K.S.Mann, Professor and Head(IT) and Dr. Amit Kamra, Assistant Professor(IT) has received Rs 2Lakh Grant for the AICTE VAANI held from 8th-10th August 2024 and 3.5 Lakh grant for ATAL FDP which held from 16th-21st December 2024.
@@ -32,6 +35,8 @@ The Information Technology Department is dedicated to empowering students from d
   
 - <p align=justify> Dr. Sachin Bagga , Assistant Professor(IT), has successfully Completed Ph.D.(2024), got recognition from Infosys for active campuss connect activities and fellowship was awarded for attending 37th International Conference on VLSI Design.
 - <p align=justify> Pf.Rupinder Kaur , Assistant Professor(IT), has received Best paper award in 11th International Conference on Advancements in Engineering & Technology.
+- <p align=justify> Dr. Jagdeep Singh , Assistant Professor(IT), Awarded a patent titled “ IoT Enabled Cybersecurity Device ”(Patent No. 423830-001).
+
 
  ![HSR](Images/Faculty_AC1.png)
  
@@ -126,8 +131,8 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## ITIAN Club
 
-The ITIAN Club, established in 2021, is a dynamic technology-driven initiative dedicated to fostering innovation and technical excellence among students. Open to all who have a passion for technology and its real-world applications, the club serves as a vibrant platform for learning, collaboration, and skill development.
-Through a variety of engaging events, hands-on workshops, and interactive sessions, the ITIAN Club encourages members to explore emerging technologies and enhance their practical knowledge. It continues to empower students by nurturing creativity, technical competence, and a spirit of innovation.
+- <p align=justify>The ITIAN Club, established in 2021, is a dynamic technology-driven initiative dedicated to fostering innovation and technical excellence among students. Open to all who have a passion for technology and its real-world applications, the club serves as a vibrant platform for learning, collaboration, and skill development.
+ - <p align=justify>Through a variety of engaging events, hands-on workshops, and interactive sessions, the ITIAN Club encourages members to explore emerging technologies and enhance their practical knowledge. It continues to empower students by nurturing creativity, technical competence, and a spirit of innovation.
 
 
   ![HSR](Images/Itian_collage.jpeg)
