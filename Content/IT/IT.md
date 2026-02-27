@@ -143,6 +143,42 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
 
 ## Placements
+
+**Batch : 2021-2025**
+
+| Sr. No. | Candidate Name       | Company Name                               | Package (LPA) |
+|:--------|:---------------------|:-------------------------------------------|:--------------|
+| 1       | Anushka Negi         | Accelor Microsystems                       | 4.8           |
+| 2       | Aashish Bindha       | Wits Innovation Lab                        | 4.2           |
+| 3       | Abhishek Kumar       | Cropsly                                    | 4             |
+| 4       | Aman                 | Infosys                                    | 3.6           |
+| 5       | Anjali Singh         | Antier Solutions Pvt Ltd                   | 4             |
+| 6       | Ansh Kumar           | Infosys                                    | 3.6           |
+| 7       | Anu Grewal           | Infosys                                    | 3.6           |
+| 8       | Arsh Preet Singh     | Cognizant                                  | 4             |
+| 9       | Arshpreet Singh      | Airtel                                     | 3.6           |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 11      | Astha Bhanot         | Safeaeon non technical Presenter           | 4.2           |
+| 12      | Avlyn Kaur Khurana   | Infosys                                    | 3.6           |
+| 13      | Ayush Singh          | Wits Innovation Lab                        | 4.2           |
+| 14      | Eshan Sharma         | Infosys                                    | 3.6           |
+| 15      | Gagandeep Kaur       | Venture Pact                               | 4.2           |
+| 16      | Gargi Jangra         | Wits Innovation Lab                        | 4.2           |
+| 17      | Gaurav               | GlowLogics Solutions Pvt. Ltd.             | 5.2           |
+| 18      | Gurjot Singh         | TTEC                                       | 3             |
+| 19      | Gurneet Singh        | 75way Technologies Pvt. LTD.               | 3.6           |
+| 20      | Gurpartap Singh      | Infosys                                    | 3.6            |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+| 10      | Ashutosh Kumar       | Booking Koala                              | 3             |
+
+
 **Batch : 2020-2024**
 
 | Sr. No. | Candidate Name       | Company Name                               | Package (LPA) |
@@ -194,12 +230,12 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
 ## Placement Summary
 
-| Item                                                                     | 2020-2024 | 2019-2023 |
+| Item                                                                     | 2021-2025 | 2020-2024 |
 |--------------------------------------------------------------------------|-----------|-----------|
-| Total Number of Final year students                                      | 131       | 135       |
-| No. of students placed in Companies or Government sector                 | 65        | 65        |
-| No. of students admitted to higher studies with valid Qualifying scores  | 11        | 2         |
-| No. of students turned entrepreneur in Engineering/ Technology           | 0         | 3         |
+| Total Number of Final year students                                      | 131       | 131       |
+| No. of students placed in Companies or Government sector                 | 62        | 65        |
+| No. of students admitted to higher studies with valid Qualifying scores  | 5         | 11        |
+| No. of students turned entrepreneur in Engineering/ Technology           | 0         | 0         |
 
  
 
