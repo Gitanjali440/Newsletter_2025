@@ -168,34 +168,34 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 | 18      | Gurjot Singh         | TTEC                                       | 3             |
 | 19      | Gurneet Singh        | 75way Technologies Pvt. LTD.               | 3.6           |
 | 20      | Gurpartap Singh      | Infosys                                    | 3.6           |
-| 21      | Harjot singh         |                                            |               |
-| 22      | Harleen Kaur         |                                            |               |
-| 23      | Inzamamul Houqe      |                                            |               |
-| 24      | Jasmeen Kaur Gill    |                                            |               |
-| 25      | Kunal Rawat          |                                            |               |
-| 26      | Mankirat Singh       |                                            |               |
-| 27      | Manpreet Kaur        |                                            |               |
-| 28      | Manpreet Kaur        |                                            |               |
-| 29      | Md. Raihan Shamin    |                                            |               |
-| 30      | Natasha              |                                            |               |
-| 31      | Naunihal Singh       |                                            |               |
-| 32      | Navjot Singh         |                                            |               |
-| 33      | Navneet Kaur         |                                            |               |
-| 34      | Navpreet Kaur        |                                            |               |
-| 35      | Parvinder Singh      |                                            |               |
-| 36      | Prashant Singh Yadav |                                            |               |
-| 37      | Pratham Goyal        |                                            |               |
-| 38      | Priya                |                                            |               |
-| 39      | Puneet Walia         |                                            |               |
-| 40      | Rajat Garg           |                                            |               |
-| 41      | Santa Singh          |                                            |               |
-| 42      | Shabnam              |                                            |               |
-| 43      | Shivam               |                                            |               |
-| 44      | Shivshant Prasad     |                                            |               |
-| 45      | Shubham Kumar        |                                            |               |
-| 46      | Tanya Sood           |                                            |               |
-| 47      | Vaishnavi Bharambe   |                                            |               |
-| 48      | Yash                 |                                            |               |
+| 21      | Harjot singh         | Clay HR                                    | 4             |
+| 22      | Harleen Kaur         | Wits Innovation Lab                        | 4.2           |
+| 23      | Inzamamul Houqe      | Infosys                                    | 3.6           |
+| 24      | Jasmeen Kaur Gill    | Airtel                                     | 3.6           |
+| 25      | Kunal Rawat          | Infosys                                    | 3.            |
+| 26      | Mankirat Singh       | SafeAeon                                   | 4.2           |
+| 27      | Manpreet Kaur        | GlowLogics Solutions Pvt. Ltd.             | 5.2           |
+| 28      | Manpreet Kaur        | Wits Innovation Lab                        | 4.2           |
+| 29      | Md. Raihan Shamin    | Stellaraa Edu Tech Pvt Ltd                 | 12            |
+| 30      | Natasha              | Venture Pact                               | 4.2           |
+| 31      | Naunihal Singh       | Cognizant (GenC Select)                    | 4             |
+| 32      | Navjot Singh         | Wits Innovation Lab                        | 4.2           |
+| 33      | Navneet Kaur         | Wits Innovation Lab                        | 4.2           |
+| 34      | Navpreet Kaur        | Clay HR                                    | 4             |
+| 35      | Parvinder Singh      | Wits Innovation Lab                        | 4.2           |
+| 36      | Prashant Singh Yadav | Wits Innovation Lab                        | 4.2           |
+| 37      | Pratham Goyal        | eNest Technologies Private Limited         | 4             |
+| 38      | Priya                | eNest Technologies Private Limited         | 4             |
+| 39      | Puneet Walia         | Infosys                                    | 3.6           |
+| 40      | Rajat Garg           | Cropsly                                    | 4             |
+| 41      | Santa Singh          | Cognizant (GenC Select)                    | 4             |
+| 42      | Shabnam              | Stellaraa Edu Tech Pvt Ltd                 | 12            |
+| 43      | Shivam               | Step2Gen Technologies                      | 3.6           |
+| 44      | Shivshant Prasad     | Infosys                                    | 3.6           |
+| 45      | Shubham Kumar        | Cognizant (GenC Next Select)               | 6.75          |
+| 46      | Tanya Sood           | Stellaraa Edu Tech Pvt Ltd                 | 12            |
+| 47      | Vaishnavi Bharambe   | HCL Technologies                           | 4.25          |
+| 48      | Yash                 | Infosys                                    | 3.6           |
 
 
 
