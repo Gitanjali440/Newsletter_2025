@@ -4,7 +4,7 @@
 
 
 
-![HSR](Images/hod.jpg)
+![HSR](Images/IMG_7582.JPEG)
 
 <p align=justify>
 The Information Technology Department is dedicated to empowering students from diverse backgrounds, bridging the gap between urban and rural education through inclusive and innovative learning opportunities. The department’s approach to education extends beyond the classroom. It cultivates a culture of creativity, critical thinking, and problem-solving, encouraging students to think innovatively and independently. The department also emphasizes personal and professional development, offering a plethora of enriching activities such as technical workshops, hackathons, leadership initiatives, and career development programs. Alongside technical proficiency, the faculty prioritizes essential soft skills, teamwork, and ethical principles to nurture socially responsible and well-rounded individuals.The Information Technology Department stands as a beacon of excellence, committed to producing future-ready professionals equipped to meet global challenges, contribute meaningfully to society, and emerge as leaders in the field of technology and beyond.</p>
@@ -15,7 +15,7 @@ The Information Technology Department is dedicated to empowering students from d
    **Again the program has been accrediated by NBA  for the Academic years 2025-2026 to 2027-2028 i.e. till June 2028.**
 
 
-  ![HSR](Images/NBA.jpg)
+  ![HSR](Images/IMG_7582.jpeg)
 
 ## Faculty Achievements  
 
