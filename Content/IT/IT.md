@@ -4,7 +4,7 @@
 
 
 
-![HSR](Images/Head_Of_Dept-2.jpeg)
+![HSR](Images/IMG_9286.jpg)
 
 <p align=justify>
 The Information Technology Department is dedicated to empowering students from diverse backgrounds, bridging the gap between urban and rural education through inclusive and innovative learning opportunities. The department’s approach to education extends beyond the classroom. It cultivates a culture of creativity, critical thinking, and problem-solving, encouraging students to think innovatively and independently. The department also emphasizes personal and professional development, offering a plethora of enriching activities such as technical workshops, hackathons, leadership initiatives, and career development programs. Alongside technical proficiency, the faculty prioritizes essential soft skills, teamwork, and ethical principles to nurture socially responsible and well-rounded individuals.The Information Technology Department stands as a beacon of excellence, committed to producing future-ready professionals equipped to meet global challenges, contribute meaningfully to society, and emerge as leaders in the field of technology and beyond.</p>
@@ -167,7 +167,7 @@ The Information Technology Department is dedicated to empowering students from d
 
 ###  Extracuricular Achievements
 
-![HSR](Images/Radio.jpeg)
+![HSR](Images/fm_radio_2025.jpeg)
 
 ## Innovative Events and Technical Activities Led by the Department of Information Technology through the ITian Club
 
@@ -207,7 +207,7 @@ Software Head - Jasnoor Kaur
 |  8     | TREASURE TRAIL                        | 25th March 2025      |
 |  9     | QuizPhOnic                      | 23rd April 2025      |
 
-  ![HSR](Images/Itian_collage.jpeg)
+  ![HSR](Images/ITian_2025.jpeg)
 
 
 
